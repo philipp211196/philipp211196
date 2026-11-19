@@ -61,17 +61,32 @@ e soluções tecnológicas para problemas reais.
 
 ## 🧩 Projetos em Destaque
 
-### 📋 Sistema de Controle de Chamados
-Sistema para gerenciamento e acompanhamento de
-solicitações e chamados.
+### 🚗 [Sistema de Locadora de Veículos](https://github.com/philipp211196/ProjetoLocadora1)
+Aplicação de demonstração com **C#, .NET 8, Windows Forms e MySQL** para cadastro de clientes, veículos e locações.
 
-### 🏢 Aplicativo de Gestão Condominial
-Aplicativo para consulta de documentos, balancetes
-e informações condominiais.
+### 🏭 [Monitoramento Industrial — Simulador](https://github.com/philipp211196/projeto-batalha-)
+Protótipo acadêmico em **C# / Windows Forms** com esteira animada, indicadores e simulação de falhas. Os sensores e a conexão com ESP32 ainda são propostos, não implementados fisicamente.
 
-### 🏭 Monitoramento Industrial
-Protótipo de monitoramento industrial com ESP32
-e simulador desenvolvido em C#.
+### ⚡ [Calculadora Elétrica](https://github.com/philipp211196/calculadora-1)
+Interface desenvolvida com **Java Swing** para cálculos de grandezas elétricas.
+
+### 🗃️ [Bancos de Dados MySQL](https://github.com/philipp211196/Bancos-de-dados-Mysql)
+Estudos de modelagem e scripts SQL nos cenários AutoPrime, FastBite e Logistruck.
+
+---
+
+## 📂 Repositórios Organizados
+
+| Área | Projetos |
+| --- | --- |
+| **C# / .NET** | [Exercícios C#](https://github.com/philipp211196/c-exercicios) · [Exercícios adicionais](https://github.com/philipp211196/c-exercicios-) · [Locadora — versão de estudo](https://github.com/philipp211196/Projeto_Locadora) · [Locadora — etapa 2](https://github.com/philipp211196/parte2) |
+| **Java — lógica** | [Lista 1](https://github.com/philipp211196/Java---1-Lista---If-e-Comparadores-L-gicos) · [Lista 2](https://github.com/philipp211196/Java---2-Lista---IF-e-MOD) · [Lista 3](https://github.com/philipp211196/Java---3-Lista---Tern-rio) · [Lista 4](https://github.com/philipp211196/Java---4-Lista---Revis-o) |
+| **Java — laços** | [While](https://github.com/philipp211196/Java---5-Lista---While) · [Do-while (6)](https://github.com/philipp211196/Java---6-Lista---Fa-a-Enquanto) · [Do-while (7)](https://github.com/philipp211196/Java---7-Lista---Fa-a-Enquanto) · [For](https://github.com/philipp211196/Java---8-Lista---Para-For-) |
+| **Java — arrays e coleções** | [Minilista 8.5](https://github.com/philipp211196/Java---Minilista-8.5-) · [Arrays](https://github.com/philipp211196/Java---10-Lista---Array-2) · [For-each](https://github.com/philipp211196/Java---11-Lista---ForEach-com-Vetor) · [ArrayList](https://github.com/philipp211196/Java_arrayList) |
+| **SQL / Banco de dados** | [Consultas MySQL](https://github.com/philipp211196/-MySQL-Select-And-) · [Criação de bancos](https://github.com/philipp211196/Cria-o-de-banco-de-dados) |
+| **Lógica de programação** | [VisualG](https://github.com/philipp211196/VisualG) |
+
+> Os exercícios foram mantidos como registros da minha evolução acadêmica. Os projetos de aplicação têm documentação própria.
 
 ---
 
