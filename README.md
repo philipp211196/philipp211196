@@ -39,5 +39,5 @@ sensores e interface desenvolvida em C#.
 
 ## 📫 Contato
 
-- LinkedIn: adicione-seu-link
-- E-mail: adicione-seu-email
+- LinkedIn:
+- E-mail: Filipe2111@hotmail.com
