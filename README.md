@@ -41,3 +41,24 @@ sensores e interface desenvolvida em C#.
 
 - LinkedIn:
 - E-mail: Filipe2111@hotmail.com
+
+
+---
+
+## 👾 Pac-Man | Minhas Contribuições
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/philipp211196/philipp211196/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/philipp211196/philipp211196/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man das minhas contribuições"
+    src="https://raw.githubusercontent.com/philipp211196/philipp211196/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
